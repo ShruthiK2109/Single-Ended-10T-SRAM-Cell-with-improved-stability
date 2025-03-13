@@ -51,6 +51,7 @@ Once the logic was verified, Microwind was used to convert it into a physical la
 Simulations were performed to analyze power, stability, and noise margins, ensuring the proposed SRAM cell outperforms conventional 6T designs.
 These tools played a crucial role in designing an efficient SRAM cell with improved stability and power savings.
 
+
 Simulation Setup:
 
 The design was simulated using Cadence Virtuoso at 180nm technology to analyze power consumption, stability, and write performance.
@@ -59,11 +60,13 @@ Read Stability (RSNM) → 1.4x improvement
 Write Static Noise Margin (WSNM) → 312mV at 0.7V
 Power Savings → 3.29x lower switching power than 6T SRAM
 
+
 Results & Performance Analysis:
 
 1️.Read Stability: The proposed 10T SRAM cell provides a 1.4x larger RSNM compared to 6T SRAM, ensuring fewer read failures.
 2.Power Efficiency: During read operations, the 10T SRAM consumes 3.29x less power than 6T SRAM, making it ideal for low-power applications.
 3️.Write Margin Improvement: The design achieves 312mV of WSNM at 0.7V, reducing write failures and improving data integrity.
+
 
 Applications & Future Scope:
 
@@ -77,6 +80,7 @@ The Schmitt Trigger-based 10T SRAM cell is highly beneficial for low-power and e
 
 4.Medical Devices – Stable and low-power SRAM for biomedical applications
 
+
 Future improvements can include:
 
 1.Scaling to Advanced Nodes (e.g., 45nm, 22nm) for Further Power Reduction
@@ -85,10 +89,12 @@ Future improvements can include:
 
 3.Testing with Various Process Variations for Real-World Robustness
 
+
 Repository Contents:
 
 Project Report – In-depth explanation of the design, methodology, and results
 Presentation Slides – Key findings and insights from the research
 Schematics & Simulations – Detailed circuit diagrams and simulation results
+
 
 I am excited to collaborate with researchers, engineers, and industry professionals interested in VLSI design, low-power memory architectures, and SRAM optimization. Feel free to connect, explore this work, and contribute to future improvements!
