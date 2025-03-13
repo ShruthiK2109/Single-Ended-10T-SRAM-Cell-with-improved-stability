@@ -2,6 +2,7 @@
 SRAM (Static Random-Access Memory) is a crucial component in modern computing systems, especially in portable electronic devices where power efficiency and stability are key concerns. The conventional 6T SRAM cell suffers from read instability and high power consumption, making it challenging to operate at ultra-low voltages (ULV). This project proposes a Schmitt Trigger-based Single-Ended 10T SRAM cell, which enhances read stability, write reliability, and power efficiency compared to traditional 6T SRAM designs. By incorporating a Schmitt Trigger inverter, this design improves the Read Static Noise Margin (RSNM) while reducing power consumption and minimizing read failures.
 
 Key Features of the Proposed 10T SRAM Cell:
+
 1.Enhanced Read Stability – Uses a Schmitt Trigger inverter to improve read noise margin by 1.4x, ensuring reliable operation at low voltages.
 2.Reduced Power Consumption – Single-ended design saves switching power and minimizes unnecessary bit-line transitions.
 2.Improved Write Reliability – Eliminates read disturbance issues seen in conventional 6T SRAM, enhancing data retention and write success rates.
