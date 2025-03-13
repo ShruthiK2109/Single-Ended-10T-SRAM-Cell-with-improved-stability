@@ -5,6 +5,7 @@ Key Features of the Proposed 10T SRAM Cell:
 
 Enhanced Read Stability – Uses a Schmitt Trigger inverter to improve read noise margin by 1.4x, ensuring reliable operation at low voltages.
 Reduced Power Consumption – Single-ended design saves switching power and minimizes unnecessary bit-line transitions.
+
 Improved Write Reliability – Eliminates read disturbance issues seen in conventional 6T SRAM, enhancing data retention and write success rates.
 Optimized for Low-Voltage Operation – Suitable for applications in battery-powered and energy-efficient memory architectures.
 Simulated using 180nm Cadence Technology – Ensuring accurate performance analysis with real-world feasibility.
