@@ -76,7 +76,9 @@ Medical Devices – Stable and low-power SRAM for biomedical applications
 Future improvements can include:
 
 Scaling to Advanced Nodes (e.g., 45nm, 22nm) for Further Power Reduction
+
 Integration with Advanced Memory Architectures for Hybrid Computing
+
 Testing with Various Process Variations for Real-World Robustness
 
 Repository Contents:
