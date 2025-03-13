@@ -68,18 +68,18 @@ Results & Performance Analysis:
 Applications & Future Scope:
 
 The Schmitt Trigger-based 10T SRAM cell is highly beneficial for low-power and energy-efficient applications, such as:
-Portable & IoT Devices – Power-efficient memory for battery-powered gadgets
-Wearable Electronics – Ultra-low-power SRAM for smartwatches and fitness trackers
-AI & Edge Computing – Reliable memory for low-power AI accelerators
-Medical Devices – Stable and low-power SRAM for biomedical applications
+1.Portable & IoT Devices – Power-efficient memory for battery-powered gadgets
+2.Wearable Electronics – Ultra-low-power SRAM for smartwatches and fitness trackers
+3.AI & Edge Computing – Reliable memory for low-power AI accelerators
+4.Medical Devices – Stable and low-power SRAM for biomedical applications
 
 Future improvements can include:
 
-Scaling to Advanced Nodes (e.g., 45nm, 22nm) for Further Power Reduction
+1.Scaling to Advanced Nodes (e.g., 45nm, 22nm) for Further Power Reduction
 
-Integration with Advanced Memory Architectures for Hybrid Computing
+2.Integration with Advanced Memory Architectures for Hybrid Computing
 
-Testing with Various Process Variations for Real-World Robustness
+3.Testing with Various Process Variations for Real-World Robustness
 
 Repository Contents:
 
