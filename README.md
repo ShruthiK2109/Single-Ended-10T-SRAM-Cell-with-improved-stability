@@ -2,11 +2,11 @@
 SRAM (Static Random-Access Memory) is a crucial component in modern computing systems, especially in portable electronic devices where power efficiency and stability are key concerns. The conventional 6T SRAM cell suffers from read instability and high power consumption, making it challenging to operate at ultra-low voltages (ULV). This project proposes a Schmitt Trigger-based Single-Ended 10T SRAM cell, which enhances read stability, write reliability, and power efficiency compared to traditional 6T SRAM designs. By incorporating a Schmitt Trigger inverter, this design improves the Read Static Noise Margin (RSNM) while reducing power consumption and minimizing read failures.
 
 Key Features of the Proposed 10T SRAM Cell:
-Enhanced Read Stability – Uses a Schmitt Trigger inverter to improve read noise margin by 1.4x, ensuring reliable operation at low voltages.
-Reduced Power Consumption – Single-ended design saves switching power and minimizes unnecessary bit-line transitions.
-Improved Write Reliability – Eliminates read disturbance issues seen in conventional 6T SRAM, enhancing data retention and write success rates.
-Optimized for Low-Voltage Operation – Suitable for applications in battery-powered and energy-efficient memory architectures.
-Simulated using 180nm Cadence Technology – Ensuring accurate performance analysis with real-world feasibility.
+1.Enhanced Read Stability – Uses a Schmitt Trigger inverter to improve read noise margin by 1.4x, ensuring reliable operation at low voltages.
+2.Reduced Power Consumption – Single-ended design saves switching power and minimizes unnecessary bit-line transitions.
+2.Improved Write Reliability – Eliminates read disturbance issues seen in conventional 6T SRAM, enhancing data retention and write success rates.
+4.Optimized for Low-Voltage Operation – Suitable for applications in battery-powered and energy-efficient memory architectures.
+5.Simulated using 180nm Cadence Technology – Ensuring accurate performance analysis with real-world feasibility.
 
 Technical Implementation:
 The 10T SRAM cell integrates a Schmitt Trigger (ST) inverter to enhance stability. The Schmitt Trigger mechanism helps prevent voltage fluctuations by introducing hysteresis, which ensures robust operation under process variations and low-power conditions.
